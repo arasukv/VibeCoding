@@ -1,0 +1,6 @@
+{
+  "name": "CampusPulse",
+  "description": "Student to-do and assignment tracker with weekly timetable and professor academic calendar synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
